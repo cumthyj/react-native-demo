@@ -7,8 +7,10 @@
  */
 
 import React, { Component } from 'react';
-import { Platform, StyleSheet, Text, View, Image, Button } from 'react-native';
+import { Platform, StyleSheet, Text, View, Image, Button, ScrollView } from 'react-native';
 import CustomButton from './compoments/button';
+import FlatListBasics from './compoments/FastList';
+import SectionListBasics from './compoments/sectionlist';
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
@@ -77,15 +79,22 @@ export default class App extends Component<Props> {
 
 
     return (
-      <View style={styles.container}>
-        <Text style={styles.welcome}>111Welcome to React Native!</Text>
-        <Text style={styles.instructions}>To get started, edit App.js</Text>
-        <Text style={styles.instructions}>{instructions}</Text>
-        <Image source={pic} style={{ width: 193, height: 110 }} />
-        <AccountText></AccountText>
+      <ScrollView>
+        <View style={styles.container}>
+          <Text style={styles.welcome}>111Welcome to React Native!</Text>
+          <Text style={styles.instructions}>To get started, edit App.js</Text>
+          <Text style={styles.instructions}>{instructions}</Text>
+          <Image source={pic} style={{ width: 193, height: 110 }} />
+          <AccountText></AccountText>
+        </View>
         <CustomButton>
-        </CustomButton>
-      </View>
+          </CustomButton>
+          <FlatListBasics>
+          </FlatListBasics>
+          <SectionListBasics>
+          </SectionListBasics>
+      </ScrollView>
+
     );
   }
 }
