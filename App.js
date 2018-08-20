@@ -7,7 +7,8 @@
  */
 
 import React, { Component } from 'react';
-import { Platform, StyleSheet, Text, View, Image } from 'react-native';
+import { Platform, StyleSheet, Text, View, Image, Button } from 'react-native';
+import CustomButton from './compoments/button';
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
@@ -61,7 +62,6 @@ class AccountText extends Component {
         <Text>{result}</Text>
         <View style={style1.viewTest}>
         </View>
-
       </View>
     );
   }
@@ -83,6 +83,8 @@ export default class App extends Component<Props> {
         <Text style={styles.instructions}>{instructions}</Text>
         <Image source={pic} style={{ width: 193, height: 110 }} />
         <AccountText></AccountText>
+        <CustomButton>
+        </CustomButton>
       </View>
     );
   }
@@ -111,11 +113,11 @@ const styles = StyleSheet.create({
   }
 });
 
-var style1=StyleSheet.create({
-    viewTest:{
-      //border: '1px solid red',
-            height:40,
-            borderWidth: 1,  
-            borderColor: 'red',
-    }
+var style1 = StyleSheet.create({
+  viewTest: {
+    //border: '1px solid red',
+    height: 40,
+    borderWidth: 1,
+    borderColor: 'red',
+  }
 })
