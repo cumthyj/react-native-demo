@@ -1,2 +1,4 @@
-# react-native-demo
-react-native练习
+# react-native
+#### 开发环境
+- Mac OS
+- iOS
