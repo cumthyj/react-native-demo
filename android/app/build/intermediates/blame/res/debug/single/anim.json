@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_down.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\1bf0ce651df22bd44b1656d9d570c4c2537ae095\\output\\res\\anim\\catalyst_slide_down.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_out.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\1bf0ce651df22bd44b1656d9d570c4c2537ae095\\output\\res\\anim\\catalyst_fade_out.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\c32bb60b7d410583d1ceb07f0ec248f63031f61e\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\c32bb60b7d410583d1ceb07f0ec248f63031f61e\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\1bf0ce651df22bd44b1656d9d570c4c2537ae095\\output\\res\\anim\\catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\c32bb60b7d410583d1ceb07f0ec248f63031f61e\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\c32bb60b7d410583d1ceb07f0ec248f63031f61e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\1bf0ce651df22bd44b1656d9d570c4c2537ae095\\output\\res\\anim\\catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\c32bb60b7d410583d1ceb07f0ec248f63031f61e\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\c32bb60b7d410583d1ceb07f0ec248f63031f61e\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\c32bb60b7d410583d1ceb07f0ec248f63031f61e\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\c32bb60b7d410583d1ceb07f0ec248f63031f61e\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\c32bb60b7d410583d1ceb07f0ec248f63031f61e\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\c32bb60b7d410583d1ceb07f0ec248f63031f61e\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\c32bb60b7d410583d1ceb07f0ec248f63031f61e\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\c32bb60b7d410583d1ceb07f0ec248f63031f61e\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_in.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\1bf0ce651df22bd44b1656d9d570c4c2537ae095\\output\\res\\anim\\catalyst_fade_in.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeRepo\\react-native-demo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_up.xml",
+        "source": "C:\\Users\\batdw-pc\\.android\\build-cache\\1bf0ce651df22bd44b1656d9d570c4c2537ae095\\output\\res\\anim\\catalyst_slide_up.xml"
+    }
+]
