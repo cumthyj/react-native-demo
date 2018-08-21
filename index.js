@@ -8,6 +8,7 @@ import {name as appName} from './app.json';
 
 import SimpleStack from './app/NaviTool';
 import SimpleNavi from './app/SimpleNavi';
+import RneDemo from './app/ElementsUI';
 
 
-AppRegistry.registerComponent(appName, () => SimpleStack);
+AppRegistry.registerComponent(appName, () => RneDemo);

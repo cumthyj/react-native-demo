@@ -10,6 +10,7 @@ import React, { Component } from 'react';
 import { Platform, StyleSheet, Text, View, AppRegistry, TextInput, ScrollView, Image } from 'react-native';
 import PizzaTranslator from './app/PizzaTranslator';
 import MoveList from './app/MoveList';
+import { Button as EButton } from 'react-native-elements';
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
@@ -23,16 +24,10 @@ export default class App extends Component<Props> {
   render() {
     return (
       <ScrollView>
-        <View style={styles.container}>
-          <Text style={styles.welcome}>Welcome to React Native!</Text>
-          <Text style={styles.instructions}>To get started, edit App.js</Text>
-          <Text style={styles.instructions}>{instructions}</Text>
-        </View>
         <PizzaTranslator>
         </PizzaTranslator>
-        <MoveList>
-        </MoveList>
-        <Image source={require('./img/icon_diamond.png')} />
+        <EButton>
+        </EButton>
       </ScrollView>
     );
   }
