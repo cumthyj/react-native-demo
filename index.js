@@ -11,4 +11,4 @@ import SimpleNavi from './app/SimpleNavi';
 import RneDemo from './app/ElementsUI';
 
 
-AppRegistry.registerComponent(appName, () => RneDemo);
+AppRegistry.registerComponent(appName, () => SimpleNavi);
